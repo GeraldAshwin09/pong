@@ -1,0 +1,35 @@
+
+
+
+#start,
+#status {
+  font-size: 22px;
+}
+
+.modal-dialog {
+  width: 90%;
+}
+
+
+
+
+
+h1{
+margin:0;
+padding:5px;
+background-color: mediumaquamarine;
+font-family: "Sofia", sans-serif; 
+}
+
+h4{
+  background-color: #f5f5f5;
+    line-height: 2;
+    margin: 0px;
+}
+
+video{
+  background-image: url("bb.webp");
+  background-size:cover;
+  background-position:center;
+padding:25px;
+}
